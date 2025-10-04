@@ -11,7 +11,7 @@ public class InventoryService
     public InventoryService(IRepository<DrinkProduct, string> r, int t)
     {
         repo = r;
-        this.threshold = threshold;
+        threshold = t;
     }
     public bool ReduceStock(DrinkProduct p, int qty)
     {

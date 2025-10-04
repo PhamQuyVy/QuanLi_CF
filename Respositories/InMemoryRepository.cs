@@ -13,7 +13,7 @@ public class InMemoryRepository<T, TKey> : IRepository<T, TKey> where TKey : not
     public T GetById(TKey id)
     {
         if (!store.ContainsKey(id))
-            throw new KeyNotFoundException($"Entity with id {id} not found.");
+            throw new KeyNotFoundException($"Khong the tim thay {id}");
         return store[id];
     }
     public bool TryGetById(TKey id, out T entity)
@@ -28,7 +28,7 @@ public class InMemoryRepository<T, TKey> : IRepository<T, TKey> where TKey : not
     {
         if (!store.ContainsKey(keySelector(entity)))
         {
-            throw new KeyNotFoundException($"Entity with id {keySelector(entity)} not found.");
+            throw new KeyNotFoundException($"Khong the tim thay {keySelector(entity)}");
         }
 
         store[keySelector(entity)] = entity;

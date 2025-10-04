@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\MemberCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\MemberCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Strategies\\DefaultPriceRule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Strategies\\DefaultPriceRule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Strategies\\ComboDiscountPolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Strategies\\ComboDiscountPolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Services\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Services\\InventoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\InventoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Respositories\\InMemoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Respositories\\InMemoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Interface\\ITaxCaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\ITaxCaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Interface\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Interface\\IReceiptFormatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\IReceiptFormatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Interface\\IPriceRule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\IPriceRule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Interface\\IOrderDiscountPolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\IOrderDiscountPolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Exception\\OutofStockException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exception\\OutofStockException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Exception\\InvalidToppingException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exception\\InvalidToppingException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Exception\\InvalidOrderStatusException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exception\\InvalidOrderStatusException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Events\\PointsAccuredHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Events\\PointsAccuredHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Events\\OrderStatusChangedEventArgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Events\\OrderStatusChangedEventArgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Events\\InventoryLowEventArgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Events\\InventoryLowEventArgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\WalkInCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\WalkInCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\ToppingItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\ToppingItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\OrderLine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\OrderLine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\Enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\DrinkProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\DrinkProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:38:43.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefaultPriceRule.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Strategies\\DefaultPriceRule.cs",
+              "RelativeDocumentMoniker": "Strategies\\DefaultPriceRule.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Strategies\\DefaultPriceRule.cs",
+              "RelativeToolTip": "Strategies\\DefaultPriceRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:38:42.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComboDiscountPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Strategies\\ComboDiscountPolicy.cs",
+              "RelativeDocumentMoniker": "Strategies\\ComboDiscountPolicy.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Strategies\\ComboDiscountPolicy.cs",
+              "RelativeToolTip": "Strategies\\ComboDiscountPolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:38:41.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:38:39.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "Services\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Services\\InventoryService.cs",
+              "RelativeToolTip": "Services\\InventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:38:38.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Respositories\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "Respositories\\InMemoryRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Respositories\\InMemoryRepository.cs",
+              "RelativeToolTip": "Respositories\\InMemoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:38:36.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\MemberCustomer.cs",
+              "RelativeDocumentMoniker": "Domain\\MemberCustomer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\MemberCustomer.cs",
+              "RelativeToolTip": "Domain\\MemberCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:37:56.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITaxCaculator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Interface\\ITaxCaculator.cs",
+              "RelativeDocumentMoniker": "Interface\\ITaxCaculator.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Interface\\ITaxCaculator.cs",
+              "RelativeToolTip": "Interface\\ITaxCaculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:38:33.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Interface\\IRepository.cs",
+              "RelativeToolTip": "Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:38:32.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReceiptFormatter.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Interface\\IReceiptFormatter.cs",
+              "RelativeDocumentMoniker": "Interface\\IReceiptFormatter.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Interface\\IReceiptFormatter.cs",
+              "RelativeToolTip": "Interface\\IReceiptFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:38:31.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPriceRule.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Interface\\IPriceRule.cs",
+              "RelativeDocumentMoniker": "Interface\\IPriceRule.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Interface\\IPriceRule.cs",
+              "RelativeToolTip": "Interface\\IPriceRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:38:29.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderDiscountPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Interface\\IOrderDiscountPolicy.cs",
+              "RelativeDocumentMoniker": "Interface\\IOrderDiscountPolicy.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Interface\\IOrderDiscountPolicy.cs",
+              "RelativeToolTip": "Interface\\IOrderDiscountPolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:38:28.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OutofStockException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Exception\\OutofStockException.cs",
+              "RelativeDocumentMoniker": "Exception\\OutofStockException.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Exception\\OutofStockException.cs",
+              "RelativeToolTip": "Exception\\OutofStockException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:38:23.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvalidToppingException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Exception\\InvalidToppingException.cs",
+              "RelativeDocumentMoniker": "Exception\\InvalidToppingException.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Exception\\InvalidToppingException.cs",
+              "RelativeToolTip": "Exception\\InvalidToppingException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:38:21.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvalidOrderStatusException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Exception\\InvalidOrderStatusException.cs",
+              "RelativeDocumentMoniker": "Exception\\InvalidOrderStatusException.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Exception\\InvalidOrderStatusException.cs",
+              "RelativeToolTip": "Exception\\InvalidOrderStatusException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:38:20.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PointsAccuredHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Events\\PointsAccuredHandler.cs",
+              "RelativeDocumentMoniker": "Events\\PointsAccuredHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Events\\PointsAccuredHandler.cs",
+              "RelativeToolTip": "Events\\PointsAccuredHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:38:17.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderStatusChangedEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Events\\OrderStatusChangedEventArgs.cs",
+              "RelativeDocumentMoniker": "Events\\OrderStatusChangedEventArgs.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Events\\OrderStatusChangedEventArgs.cs",
+              "RelativeToolTip": "Events\\OrderStatusChangedEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:38:17.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InventoryLowEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Events\\InventoryLowEventArgs.cs",
+              "RelativeDocumentMoniker": "Events\\InventoryLowEventArgs.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Events\\InventoryLowEventArgs.cs",
+              "RelativeToolTip": "Events\\InventoryLowEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:38:16.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WalkInCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\WalkInCustomer.cs",
+              "RelativeDocumentMoniker": "Domain\\WalkInCustomer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\WalkInCustomer.cs",
+              "RelativeToolTip": "Domain\\WalkInCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:37:59.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ToppingItem.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\ToppingItem.cs",
+              "RelativeDocumentMoniker": "Domain\\ToppingItem.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\ToppingItem.cs",
+              "RelativeToolTip": "Domain\\ToppingItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:37:58.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderLine.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\OrderLine.cs",
+              "RelativeDocumentMoniker": "Domain\\OrderLine.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\OrderLine.cs",
+              "RelativeToolTip": "Domain\\OrderLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:37:57.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\Order.cs",
+              "RelativeToolTip": "Domain\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:37:57.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\Enum.cs",
+              "RelativeDocumentMoniker": "Domain\\Enum.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\Enum.cs",
+              "RelativeToolTip": "Domain\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:37:55.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DrinkProduct.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\DrinkProduct.cs",
+              "RelativeDocumentMoniker": "Domain\\DrinkProduct.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\DrinkProduct.cs",
+              "RelativeToolTip": "Domain\\DrinkProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:37:54.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "Domain\\Customer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c#\\QuanLi_CF\\Domain\\Customer.cs",
+              "RelativeToolTip": "Domain\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:37:42.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\bin\\Release\\net9.0",
+    "\\Exception",
+    "\\Interface",
+    "\\Respositories",
+    "\\Services",
+    "\\Strategies"
+  ],
+  "SelectedNode": "\\Domain\\MemberCustomer.cs",
+  "PreviewInSolutionExplorer": false
+}

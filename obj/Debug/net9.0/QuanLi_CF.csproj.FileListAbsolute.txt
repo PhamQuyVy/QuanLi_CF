@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\c#\QuanLi_CF\bin\Debug\net9.0\QuanLi_CF.exe
+C:\Users\HP\Desktop\c#\QuanLi_CF\bin\Debug\net9.0\QuanLi_CF.deps.json
+C:\Users\HP\Desktop\c#\QuanLi_CF\bin\Debug\net9.0\QuanLi_CF.runtimeconfig.json
+C:\Users\HP\Desktop\c#\QuanLi_CF\bin\Debug\net9.0\QuanLi_CF.dll
+C:\Users\HP\Desktop\c#\QuanLi_CF\bin\Debug\net9.0\QuanLi_CF.pdb
+C:\Users\HP\Desktop\c#\QuanLi_CF\obj\Debug\net9.0\QuanLi_CF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\c#\QuanLi_CF\obj\Debug\net9.0\QuanLi_CF.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c#\QuanLi_CF\obj\Debug\net9.0\QuanLi_CF.sourcelink.json
+C:\Users\HP\Desktop\c#\QuanLi_CF\obj\Debug\net9.0\QuanLi_CF.dll
+C:\Users\HP\Desktop\c#\QuanLi_CF\obj\Debug\net9.0\refint\QuanLi_CF.dll
+C:\Users\HP\Desktop\c#\QuanLi_CF\obj\Debug\net9.0\QuanLi_CF.pdb
+C:\Users\HP\Desktop\c#\QuanLi_CF\obj\Debug\net9.0\QuanLi_CF.genruntimeconfig.cache
+C:\Users\HP\Desktop\c#\QuanLi_CF\obj\Debug\net9.0\ref\QuanLi_CF.dll

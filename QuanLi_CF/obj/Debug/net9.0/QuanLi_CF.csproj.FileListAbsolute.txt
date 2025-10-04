@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\c#\QuanLi_CF\QuanLi_CF\obj\Debug\net9.0\QuanLi_CF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\c#\QuanLi_CF\QuanLi_CF\obj\Debug\net9.0\QuanLi_CF.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\c#\QuanLi_CF\QuanLi_CF\obj\Debug\net9.0\QuanLi_CF.AssemblyInfo.cs
+C:\Users\HP\Desktop\c#\QuanLi_CF\QuanLi_CF\obj\Debug\net9.0\QuanLi_CF.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c#\QuanLi_CF\QuanLi_CF\obj\Debug\net9.0\QuanLi_CF.sourcelink.json
